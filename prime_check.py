@@ -1,5 +1,7 @@
 from math import sqrt
 
+#badly implemented prime checker, need to fix many things
+
 def is_prime(x):
     if x < 2:
         return False
